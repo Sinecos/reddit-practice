@@ -1,0 +1,21 @@
+Uses:
+
+- React
+- TypeScript
+
+- GraphQL (data query and manipulation language for APIs. Fetch data etc from Apis 
+    (like fetch data from youtube Api. The url are the endpoints. That url determ what
+    data comes back. Fetch url and url returns .json file)
+
+- URQL/Apollo (Apollo is JavaScript GraphQL client that is a 
+    code that makes a POST request to a GraphQL Server and to get JSON back)
+
+- Node.js (is a back-end JavaScript runtime environment that runs on the V8 engine
+    and executes JavaScript code outside a web browser)
+
+- PostgreSQL (open-source Database app)
+- MikroORM/TypeORM (Interact with Database, create tables, insert/select data)
+- Redis
+- Next.js
+- TypeGraphQL (Modern framework for GraphQL API in Node.js)
+- Chakra
